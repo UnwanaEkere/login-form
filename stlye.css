@@ -75,3 +75,19 @@
 
 
 /* etido section */
+.red {
+    background-image: linear-gradient(to right, rgb(241, 53, 53), rgb(224, 109, 128));
+    color: white;
+    text-align: center;
+    width: 370px;
+    height: 380px;
+    padding: 80px;
+    padding-top: 100px;
+    margin-top: 40px;
+    margin-left: 10px;
+    border-radius: 0px 10px 10px 0px;
+
+}
+p{
+    width: 250px;
+}
